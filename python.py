@@ -5,6 +5,7 @@ if usr_cnf == "yes":
  print(usr.lower())
 else if usr_cnf == 'yes':
  print(usr.title())
- 
- 
-  
+else:
+ print(usr)
+ exit()
+
