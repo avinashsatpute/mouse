@@ -5,4 +5,4 @@ if usr_cnf == "yes":
  print(usr.lower())
 else:
  print(usr)
-  
+ exit()
